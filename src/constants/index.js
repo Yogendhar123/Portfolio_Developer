@@ -119,7 +119,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Frontnend Developer",
+    title: "Frontend Developer",
     company_name: "TCS (Tata consultancy services)",
     icon: starbucks,
     iconBg: "#383E56",
