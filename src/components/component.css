@@ -1,0 +1,33 @@
+.ComponentHeight {
+    height: 100vh;
+}
+
+@media screen and (max-width: 300px),
+screen and (max-height: 700px) {
+    .ComponentHeight {
+        height: 40vh;
+    }
+}
+
+@media screen and (min-device-width: 320px) and (max-device-width: 450px) {
+    .ComponentHeight {
+        height: 45vh;
+    }
+}
+
+
+@media screen and (min-device-width: 450px) and (max-device-width: 600px) {
+    .ComponentHeight {
+        height: 60vh;
+    }
+
+    /* STYLES HERE */
+}
+
+@media screen and (min-device-width: 600px) and (max-device-width: 900px) {
+    .ComponentHeight {
+        height: 85vh;
+    }
+
+    /* STYLES HERE */
+}
