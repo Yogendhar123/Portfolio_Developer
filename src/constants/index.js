@@ -123,7 +123,7 @@ const experiences = [
     company_name: "TCS (Tata consultancy services)",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "Feb 202 - present",
+    date: "Feb 2022 - present",
     points: [
       "Developing and maintaining web applications using React.js and Angular technologies.",
 
