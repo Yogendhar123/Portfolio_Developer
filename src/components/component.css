@@ -2,12 +2,7 @@
     height: 100vh;
 }
 
-@media screen and (max-width: 300px),
-screen and (max-height: 700px) {
-    .ComponentHeight {
-        height: 40vh;
-    }
-}
+
 
 @media screen and (min-device-width: 320px) and (max-device-width: 450px) {
     .ComponentHeight {
@@ -27,6 +22,21 @@ screen and (max-height: 700px) {
 @media screen and (min-device-width: 600px) and (max-device-width: 700px) {
     .ComponentHeight {
         height: 85vh;
+    }
+
+    /* STYLES HERE */
+}
+@media screen and (min-device-width: 700px) and (max-device-width: 1300px) {
+    .ComponentHeight {
+        height: 100vh;
+    }
+
+    /* STYLES HERE */
+}
+
+@media screen and (min-device-height: 500px) and (max-device-height: 750px) {
+    .ComponentHeight {
+        height: 100vh;
     }
 
     /* STYLES HERE */
