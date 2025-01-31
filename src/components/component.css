@@ -24,7 +24,7 @@ screen and (max-height: 700px) {
     /* STYLES HERE */
 }
 
-@media screen and (min-device-width: 600px) and (max-device-width: 900px) {
+@media screen and (min-device-width: 600px) and (max-device-width: 700px) {
     .ComponentHeight {
         height: 85vh;
     }
