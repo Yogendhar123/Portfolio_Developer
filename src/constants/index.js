@@ -27,6 +27,7 @@ import {
   bootstarp,
   mateualUI,
   generali,
+  eduLearn,
   // angular,
 } from "../assets";
 
@@ -321,4 +322,36 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+const Pesonalprojects = [
+  {
+    name: "EduLearn",
+    description:
+      "EduLearn is a comprehensive education management app designed to facilitate course learning and track student progress. It offers separate login systems for students, faculty, and admins, allowing students to manage their learning and view performance, while faculty can track student progress and manage course content. Admins have full control to oversee the system, manage users, and generate detailed reports. With real-time tracking and a user-friendly interface, EduLearn enhances the learning experience and provides valuable insights for both students and educators.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "typscript",
+        color: "green-text-gradient",
+      },
+
+      {
+        name: "Git",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: eduLearn,
+    source_code_link: "https://edulearnapp.netlify.app/",
+  },
+];
+
+export {
+  services,
+  technologies,
+  experiences,
+  testimonials,
+  projects,
+  Pesonalprojects,
+};

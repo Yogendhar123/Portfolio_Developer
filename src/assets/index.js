@@ -35,6 +35,7 @@ import mateualUI from "./tech/materialUI.png";
 import generali from "../assets/Generali.png";
 import githubLOgo from "./gitHublog.png";
 import linkIN from "./LinkLogo.png";
+import eduLearn from "./edulearn.jpg";
 
 export {
   logo,
@@ -71,4 +72,5 @@ export {
   generali,
   githubLOgo,
   linkIN,
+  eduLearn,
 };
