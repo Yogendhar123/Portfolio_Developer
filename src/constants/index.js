@@ -350,7 +350,8 @@ const Pesonalprojects = [
   {
     name: "Load Matcher",
     description:
-      "Efficient Load Matching for Modern Logistics  simplifies logistics by intelligently matching loads with the most suitable partners using a smart scoring system. Our advanced algorithm ensures that every shipment is paired with the right transporter, improving efficiency, reducing costs, and enhancing delivery reliability. Whether you're a shipper or carrier, Apar connects you with the right logistics partner—fast and smart.",
+      "Matching loads with the right transport partners—fast, efficient, and reliable.Efficient Load Matching for Modern Logistics simplifies freight movement by intelligently connecting shippers with the most suitable carriers using a dynamic scoring system. Our advanced algorithm ensures every shipment is paired with the ideal transporter based on factors like availability, performance, and route optimization. This leads to improved operational efficiency, reduced costs, and more dependable deliveries. Whether you're a shipper looking for trusted carriers or a logistics provider seeking consistent loads, Apar is your intelligent logistics matchmaker.",
+
     tags: [
       {
         name: "react",
