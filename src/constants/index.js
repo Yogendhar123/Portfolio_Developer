@@ -28,6 +28,7 @@ import {
   mateualUI,
   generali,
   eduLearn,
+  loadmatcher,
   // angular,
 } from "../assets";
 
@@ -344,6 +345,29 @@ const Pesonalprojects = [
     ],
     image: eduLearn,
     source_code_link: "https://edulearnapp.netlify.app/",
+  },
+
+  {
+    name: "Load Matcher",
+    description:
+      "Efficient Load Matching for Modern Logistics  simplifies logistics by intelligently matching loads with the most suitable partners using a smart scoring system. Our advanced algorithm ensures that every shipment is paired with the right transporter, improving efficiency, reducing costs, and enhancing delivery reliability. Whether you're a shipper or carrier, Apar connects you with the right logistics partner—fast and smart.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "typscript",
+        color: "green-text-gradient",
+      },
+
+      {
+        name: "Git",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: loadmatcher,
+    source_code_link: "https://loadmatchapp.netlify.app/",
   },
 ];
 

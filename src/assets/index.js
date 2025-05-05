@@ -36,6 +36,7 @@ import generali from "../assets/Generali.png";
 import githubLOgo from "./gitHublog.png";
 import linkIN from "./LinkLogo.png";
 import eduLearn from "./edulearn.jpg";
+import loadmatcher from "./loadmatch.png";
 
 export {
   logo,
@@ -73,4 +74,5 @@ export {
   githubLOgo,
   linkIN,
   eduLearn,
+  loadmatcher,
 };
