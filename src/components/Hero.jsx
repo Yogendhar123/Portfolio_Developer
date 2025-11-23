@@ -136,8 +136,8 @@ const Hero = () => {
             }}
           >
             <a
-              href="/Yogendhar_resume.pdf"
-              download="YogendharResume.pdf"
+              href="/Full_Stack_Developer_Yogendhar_Resume.pdf"
+              download="Full_Stack_Developer_Yogendhar_Resume.pdf"
               style={{ textDecoration: "none", color: "inherit" }}
             >
               Download Resume
